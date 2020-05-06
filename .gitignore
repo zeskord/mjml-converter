@@ -1,0 +1,7 @@
+# Dependency directories
+node_modules/
+
+# Данные для SSL
+ssl/cert.pem
+ssl/key.pem
+ssl/passphrase.txt
